@@ -1,5 +1,5 @@
 # README.md
-![Developer](https://blog.logrocket.com/wp-content/uploads/2022/07/developers-guide-solidity-design-pattern.png)
+![Developer](https://en.bitcoinwiki.org/upload/en/images/d/d5/Solidity.png)
 <b><h2>Hi 👋, I'm BlockCreator</h2>
 <h3>A fullstack developer
 🌱 I’m currently learning NextJS w Tailwind
