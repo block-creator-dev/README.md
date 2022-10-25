@@ -1,5 +1,5 @@
 # README.md
-<b>Hi 👋, I'm BlockCreator
+<b><h1>Hi 👋, I'm BlockCreator
 A fullstack developer
 🌱 I’m currently learning NextJS w Tailwind
 
