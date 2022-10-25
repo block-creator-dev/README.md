@@ -1,6 +1,7 @@
 # README.md
-<b><h1>Hi 👋, I'm BlockCreator
-A fullstack developer
+(https://blog.logrocket.com/wp-content/uploads/2022/07/developers-guide-solidity-design-pattern.png)
+<b><h2>Hi 👋, I'm BlockCreator</h2>
+<h3>A fullstack developer
 🌱 I’m currently learning NextJS w Tailwind
 
 🐮 I'm using Java Spring projects at work
