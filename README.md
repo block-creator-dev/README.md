@@ -1,9 +1,12 @@
-# README.md
-![Developer](https://en.bitcoinwiki.org/upload/en/images/d/d5/Solidity.png)
-<b><h2>Hi 👋, I'm BlockCreator</h2>
-<h3>A fullstack developer
-🌱 I’m currently learning NextJS w Tailwind
+<h1 align="center">Hi 👋, I'm BlockCreator</h1>
+<h3 align="center">A fullstack developer</h3>
 
-🐮 I'm using Java Spring projects at work
+🌱 I’m currently in NextJS
 
-👯 I’m looking to collaborate on DeFi/NFT
+🐮 I'm using JavaScript projects at work
+
+👯 I’m looking to collaborate on DeFi/NFT/Game
+![Developer](https://img.freepik.com/premium-vector/metamask-crypto-currency-wallet-logo-vector-illustration-technology-banner-background_5555-727.jpg)
+<h3 align="left">Some Languages and Tools that I used:</h3>
+
+
